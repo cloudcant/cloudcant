@@ -1,9 +1,7 @@
+
 <h1 align="center">
-  <b>c10udz</b>
-</h1>
-
 Helo :) im just some guy that shouldn't have access to a computer.
-
+</h1>
 <br>
 
 <p>
