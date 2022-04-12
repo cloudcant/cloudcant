@@ -1,8 +1,4 @@
 
-<h1 align="center">
-Helo :) im just some guy that shouldn't have access to a computer.
-</h1>
-<br>
 
 <p>
 <div align="center">
