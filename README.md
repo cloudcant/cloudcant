@@ -10,7 +10,7 @@
 
 ```python
 if awake:
-    code()
+     code()
 elif tired:
      drink_coffee()
 ```
