@@ -24,7 +24,7 @@ elif tired:
 
 <div align="center">
   <a href="https://open.spotify.com/track/13qjycCLStZb9sJje6v0MC?si=fa5e6ec9d94e424b">
-    <img src="https://c10udz.github.io/spot.html">
+    <img src="https://c10udz.github.io/spot">
   </a>
 </div>
 
