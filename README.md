@@ -20,10 +20,10 @@ elif tired:
 <br/>
 <p align="left">
   <a href="https://c10udz.github.io">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=c10udz&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=c10udz&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=cloudcant&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=cloudcant&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
 
-[![c10udz Activity Graph](https://activity-graph.herokuapp.com/graph?username=c10udz&custom_title=c10udz%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://c10udz.github.io)
+[![c10udz Activity Graph](https://activity-graph.herokuapp.com/graph?username=cloudcant&custom_title=cloudcant%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://c10udz.github.io)
